@@ -1,0 +1,21 @@
+/* 
+  Localizable.strings
+*/
+
+// MARK: Common Labels
+"common.button.add.event" = "Add Event";
+
+// MARK: Alert
+"alert.ok" = "OK";
+"alert.cancel" = "Cancel";
+
+// MARK: Login
+"login.screen.title" = "Calendar Event App";
+"login.title" = "Login";
+"sign.in.email" = "Email";
+"login.invalid.email" = "Please enter valid email.";
+"sign.in.password" = "Password";
+"login.wrong.password" = "Password needs to have 1 uppercase letter, 1 number, and be a minimum of 8 characters.";
+
+// MARK: Event List
+"event.result.title" = "Event List";
