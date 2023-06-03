@@ -56,6 +56,6 @@ final class LoginViewController: BaseViewController {
 
     private func goToHomeVC() {
         let homeScreen = R.storyboard.eventResult.eventResultViewController()!
-        sceneDelegate?.switchVC(viewController: homeScreen)
+        navigationController?.pushViewController(homeScreen, animated: true)
     }
 }

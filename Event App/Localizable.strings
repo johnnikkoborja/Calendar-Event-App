@@ -10,7 +10,6 @@
 "alert.cancel" = "Cancel";
 
 // MARK: Login
-"login.screen.title" = "Calendar Event App";
 "login.title" = "Login";
 "sign.in.email" = "Email";
 "login.invalid.email" = "Please enter valid email.";

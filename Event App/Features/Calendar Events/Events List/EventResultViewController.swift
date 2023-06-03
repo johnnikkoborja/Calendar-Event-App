@@ -27,6 +27,8 @@ final class EventResultViewController: BaseViewController, EKEventEditViewDelega
         tableView.delegate = self
         tableView.dataSource = self
         tableView.register(R.nib.eventResultCell)
+        self.navigationItem.setHidesBackButton(true, animated: true)
+        self.navigationItem.backButtonDisplayMode = .minimal
         
         viewModel = EventResultViewModel()
         setObservables()
