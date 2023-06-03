@@ -1,4 +1,5 @@
 # Calendar-Event-App
+Calendar Application that has user login and able to add, edit, save and delete events.
 
 Features:
 1. Demo Login Screen
